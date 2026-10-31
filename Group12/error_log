@@ -1,0 +1,72 @@
+[02-Sep-2026 13:06:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_PORT" in /home/n1h3vhrrmfam/public_html/Group12/config.php:12
+Stack trace:
+#0 /home/n1h3vhrrmfam/public_html/Group12/index.php(30): getDbConnection()
+#1 {main}
+  thrown in /home/n1h3vhrrmfam/public_html/Group12/config.php on line 12
+[02-Sep-2026 13:06:48 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_PORT" in /home/n1h3vhrrmfam/public_html/Group12/config.php:12
+Stack trace:
+#0 /home/n1h3vhrrmfam/public_html/Group12/index.php(30): getDbConnection()
+#1 {main}
+  thrown in /home/n1h3vhrrmfam/public_html/Group12/config.php on line 12
+[02-Sep-2026 13:09:48 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_PORT" in /home/n1h3vhrrmfam/public_html/Group12/config.php:12
+Stack trace:
+#0 /home/n1h3vhrrmfam/public_html/Group12/index.php(30): getDbConnection()
+#1 {main}
+  thrown in /home/n1h3vhrrmfam/public_html/Group12/config.php on line 12
+[02-Sep-2026 23:46:15 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting "case" or "default" or "}" in /home/n1h3vhrrmfam/public_html/Group12/index.php on line 204
+[02-Sep-2026 23:47:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'truck_id' in 'WHERE' in /home/n1h3vhrrmfam/public_html/Group12/index.php:134
+Stack trace:
+#0 /home/n1h3vhrrmfam/public_html/Group12/index.php(134): PDO->prepare()
+#1 {main}
+  thrown in /home/n1h3vhrrmfam/public_html/Group12/index.php on line 134
+[02-Sep-2026 23:47:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'truck_id' in 'WHERE' in /home/n1h3vhrrmfam/public_html/Group12/index.php:134
+Stack trace:
+#0 /home/n1h3vhrrmfam/public_html/Group12/index.php(134): PDO->prepare()
+#1 {main}
+  thrown in /home/n1h3vhrrmfam/public_html/Group12/index.php on line 134
+[02-Sep-2026 23:49:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'truck_id' in 'WHERE' in /home/n1h3vhrrmfam/public_html/Group12/index.php:134
+Stack trace:
+#0 /home/n1h3vhrrmfam/public_html/Group12/index.php(134): PDO->prepare()
+#1 {main}
+  thrown in /home/n1h3vhrrmfam/public_html/Group12/index.php on line 134
+[02-Sep-2026 23:51:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'truck_id' in 'WHERE' in /home/n1h3vhrrmfam/public_html/Group12/index.php:134
+Stack trace:
+#0 /home/n1h3vhrrmfam/public_html/Group12/index.php(134): PDO->prepare()
+#1 {main}
+  thrown in /home/n1h3vhrrmfam/public_html/Group12/index.php on line 134
+[02-Sep-2026 23:51:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'truck_id' in 'WHERE' in /home/n1h3vhrrmfam/public_html/Group12/index.php:134
+Stack trace:
+#0 /home/n1h3vhrrmfam/public_html/Group12/index.php(134): PDO->prepare()
+#1 {main}
+  thrown in /home/n1h3vhrrmfam/public_html/Group12/index.php on line 134
+[02-Sep-2026 23:51:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'truck_id' in 'WHERE' in /home/n1h3vhrrmfam/public_html/Group12/index.php:134
+Stack trace:
+#0 /home/n1h3vhrrmfam/public_html/Group12/index.php(134): PDO->prepare()
+#1 {main}
+  thrown in /home/n1h3vhrrmfam/public_html/Group12/index.php on line 134
+[02-Sep-2026 23:51:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'truck_id' in 'WHERE' in /home/n1h3vhrrmfam/public_html/Group12/index.php:134
+Stack trace:
+#0 /home/n1h3vhrrmfam/public_html/Group12/index.php(134): PDO->prepare()
+#1 {main}
+  thrown in /home/n1h3vhrrmfam/public_html/Group12/index.php on line 134
+[02-Sep-2026 23:51:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'truck_id' in 'WHERE' in /home/n1h3vhrrmfam/public_html/Group12/index.php:134
+Stack trace:
+#0 /home/n1h3vhrrmfam/public_html/Group12/index.php(134): PDO->prepare()
+#1 {main}
+  thrown in /home/n1h3vhrrmfam/public_html/Group12/index.php on line 134
+[02-Sep-2026 23:53:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'truck_id' in 'WHERE' in /home/n1h3vhrrmfam/public_html/Group12/index.php:134
+Stack trace:
+#0 /home/n1h3vhrrmfam/public_html/Group12/index.php(134): PDO->prepare()
+#1 {main}
+  thrown in /home/n1h3vhrrmfam/public_html/Group12/index.php on line 134
+[02-Sep-2026 23:54:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'truck_id' in 'WHERE' in /home/n1h3vhrrmfam/public_html/Group12/index.php:139
+Stack trace:
+#0 /home/n1h3vhrrmfam/public_html/Group12/index.php(139): PDO->prepare()
+#1 {main}
+  thrown in /home/n1h3vhrrmfam/public_html/Group12/index.php on line 139
+[19-Sep-2026 10:47:55 UTC] PHP Parse error:  syntax error, unexpected token "case", expecting "]" in /home/n1h3vhrrmfam/public_html/Group12/index.php on line 68
+[19-Sep-2026 10:49:16 UTC] PHP Parse error:  syntax error, unexpected fully qualified name "\vert" in /home/n1h3vhrrmfam/public_html/Group12/index.php on line 33
+[19-Sep-2026 10:50:38 UTC] PHP Parse error:  syntax error, unexpected fully qualified name "\vert" in /home/n1h3vhrrmfam/public_html/Group12/index.php on line 33
+[19-Oct-2026 12:54:19 UTC] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'xavierchris332@gmail.com' for key 'uk_users_email'
+[19-Oct-2026 13:16:16 UTC] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'johnsustento@gmail.com' for key 'uk_owners_email'
+[19-Oct-2026 13:50:39 UTC] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'brenjun123@gmail.com' for key 'uk_owners_email'
